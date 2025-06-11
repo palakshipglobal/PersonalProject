@@ -1,5 +1,5 @@
 function App() {
-  return <p className="text-red-400">Palak</p>;
+  return <p className="text-red-400">Project</p>
 }
 
-export default App;
+export default App
